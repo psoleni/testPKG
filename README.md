@@ -1,1 +1,2 @@
 # testPKG
+test open cpu
